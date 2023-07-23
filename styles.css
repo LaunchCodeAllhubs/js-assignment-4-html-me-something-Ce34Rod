@@ -1,1 +1,61 @@
-/* Write your CSS here! */
+p {
+ margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  line-height: 1.6;
+  font-size: 20px;
+  color: goldenrod;
+  text-indent: 25px;
+}
+h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 300px;
+    width: 50%;
+    padding: auto;
+    color: goldenrod;
+}
+
+  
+  h1 {
+    margin-top: 65px;
+    margin-bottom: 35px;
+    margin-right: 150px;
+    margin-left: 300px;
+    width: 40%;
+    border: 2px solid rgb(229, 222, 24);
+    padding: 10px;
+    color: goldenrod;
+    }
+#Illustrated {
+    font-weight: 100;
+ }
+h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 300px;
+    width: 50%;
+    padding: auto;
+    color: goldenrod;
+h3 {
+    color: goldenrod;
+}
+}
+.center {
+    margin-left: 250px;
+    margin-right: auto;
+  }
+body {
+    margin: 8px;
+    display: block;
+}
+#mainHeading {
+    color: red;
+}
+.funParagraph {
+    color: green;
+}
+html {background-color: black}
